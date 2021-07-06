@@ -49,7 +49,7 @@ const ProfileSchema = new mongoose.Schema({
         type: Date,
       },
       current: {
-        type: String,
+        type: Boolean,
         default: false,
       },
       company: {
