@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://admin:c4xQ4T2lQDnRXTnw@devconnector.ro6i4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtToken": "supersecrettoken",
-  "githubToken": "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",
-  "serverPort": "https://localhost:5000"
-}
